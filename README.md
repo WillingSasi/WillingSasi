@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **WillingSasi/WillingSasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WillingSasi&show_icons=true&theme=flag-india)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillingSasi&layout=compact)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WillingSasi&repo=jenkinstest)](https://github.com/WillingSasi/jenkinstest)
