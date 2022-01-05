@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on tosimple.ai
+- 🔭 I’m currently working on tusimple.ai
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on AI and DevOps
 - 🤔 I’m looking for help with AI and DevOps
